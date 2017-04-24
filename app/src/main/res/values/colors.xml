@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="startActivityBackground">#F4FEFE</color>
+    <color name="colorElementsInAddNewListXML">#0F40E5</color>
+    <color name="backgroundTextColor">#34BE0F</color>
+    <color name="title">#222222</color>
+    <color name="backgroundCardViewColor">#FEFEFE</color>
+</resources>

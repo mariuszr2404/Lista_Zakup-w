@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_name_of_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="#34BE0F"
+        android:text="@string/tv_nazwa_listy"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="32dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="24dp"
+        android:maxLength="22"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:src="@drawable/produkty_logo"
+        android:scaleType="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:lines="3"
+        android:text="@string/tv_slogan_label"
+        android:gravity="center_horizontal"
+        android:textSize="20sp"
+        android:layout_marginLeft="48dp"
+        android:layout_marginRight="48dp"
+        android:id="@+id/textView2"/>
+
+    <ImageView
+        android:id="@+id/iv_go_to_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.5"
+        android:src="@drawable/add_blue"
+        android:scaleType="fitEnd"
+        android:layout_margin="@dimen/value_of_margin"/>
+
+</LinearLayout>

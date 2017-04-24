@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestImageSql</string>
+    <string name="chleb">brot</string>
+    <string name="ciastka">keske</string>
+    <string name="jablko">apfel</string>
+    <string name="jajka">eier</string>
+    <string name="ketchup">ketchup</string>
+    <string name="kielbasa">wurst</string>
+    <string name="mleko">milch</string>
+    <string name="ogorek">gurke</string>
+    <string name="piwo">bier</string>
+    <string name="pomidor">tomate</string>
+    <string name="ryba">fish</string>
+    <string name="ser">käse</string>
+    <string name="woda">wasser</string>
+    <string name="nazwa">name</string>
+    <string name="test_sqlite">versuch_sqlite</string>
+    <string name="Dodano"> zusätzlich</string>
+    <string name="lista"> auf der Liste</string>
+    <string name="start_text">Erstellen Sie Ihre erste Liste, planen Sie Ihre Einkaufen schneller und</string>
+    <string name="dodaj_produkt">Produkt hinzufügen</string>
+    <string name="bt_gotowe_label">BEREIT</string>
+    <string name="name_list_label">Liste der Produkte</string>
+    <string name="nowa_lista_et">Neue Liste</string>
+    <string name="nowa_lista_tv">" Namenslisten"</string>
+    <string name="toast_do_listy">die Füchse</string>
+    <string name="toast_dodadno">Hinzugefügt Produkt</string>
+    <string name="toast_komunikat_dodania">" Das Produkt wurde in die Liste aufgenommen"</string>
+    <string name="tv_nazwa_listy">Namensliste</string>
+    <string name="tv_slogan_label">" Starten Sie das Hinzufügen von Produkten schnell und einfach, mit einem Näherungssensor"</string>
+    <string name="tv_suma_label">" Summe "</string>
+    <string name="tv_utworz_liste">schaffen</string>
+</resources>
